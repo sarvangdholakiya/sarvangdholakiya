@@ -39,7 +39,7 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvangdholakiya&layout=compact&locale=en" alt="sarvangdholakiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvangdholakiya&" alt="sarvangdholakiya" /></p>
 
 </div>
 
