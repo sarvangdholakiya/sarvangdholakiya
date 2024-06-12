@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvangdholakiya" alt="sarvangdholakiya" /></a> </p>
 
-- 🔭 I’m currently working on **Shopify development**
+- 🔭 I’m currently working on **Full-Stack Development**
 
 - 🌱 I’m currently learning **Latest Technologies Based on The Market Evolutions**
 
