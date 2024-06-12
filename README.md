@@ -34,7 +34,7 @@
 <div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&show_icons=true&theme=tokyonight&locale=en" alt="sarvangdholakiya" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvangdholakiya&show_icons=true&theme=tokyonight" alt="sarvangdholakiya" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvangdholakiya&show_icons=true&theme=tokyonight" alt="sarvangdholakiya" />
 </p>
 
 <br>
