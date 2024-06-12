@@ -37,6 +37,8 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvangdholakiya&show_icons=true&theme=tokyonight" alt="sarvangdholakiya" />
 </p>
 </div>
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvangdholakiya&layout=compact" alt="sarvangdholakiya" /></p>
 
 <p>
 <h3 align="left">Support:</h3>
