@@ -34,7 +34,7 @@
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&show_icons=true&theme=tokyonight&locale=en" alt="sarvangdholakiya" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&show_icons=true&theme=transparent" alt="sarvangdholakiya" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&show_icons=true&theme=tokyonight" alt="sarvangdholakiya" />
 </p>
 </div>
 
