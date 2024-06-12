@@ -23,8 +23,6 @@
 <p align="left">
 <a href="https://dev.to/@sarvangd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sarvangd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarvang dholakiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvang dholakiya" height="30" width="40" /></a>
-<a href="https://fb.com/sarvang dholakiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarvang dholakiya" height="30" width="40" /></a>
-<a href="https://instagram.com/sarvang dholakiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvang dholakiya" height="30" width="40" /></a>
 <a href="https://dribbble.com/sarvang dholakiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sarvang dholakiya" height="30" width="40" /></a>
 </p>
 
