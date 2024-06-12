@@ -1,7 +1,10 @@
 <h1 align="center">Hola Amigos 👋, I'm Sarvang Dholakiya</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvangdholakiya&label=Profile%20views&color=0e75b6&style=flat" alt="sarvangdholakiya" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=sarvangdholakiya&label=Profile%20views&color=0e75b6&style=flat" alt="sarvangdholakiya" /> 
+</p>
+
 
 - 🔭 I’m currently working on **Full-Stack Development**
 
