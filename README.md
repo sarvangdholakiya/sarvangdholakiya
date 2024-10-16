@@ -1,4 +1,4 @@
-<h1 align="center">Hola Amigos 🧑‍💻 I'm Sarvang Dholakiya</h1>
+<h1 align="center">Hola Amigos 🧑‍💻 I'm Sarvang</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <p align="right"> 
