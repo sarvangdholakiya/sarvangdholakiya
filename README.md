@@ -87,18 +87,16 @@
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/iuricode/count.svg"
     alt="Number of Profile Visitors"
   />
 </p>
-
 </div>
+
+---
+
 <div align="left">
 <a href="mailto:sarvang98@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
@@ -122,4 +120,10 @@
   <a href="https://www.buymeacoffee.com/Sarvang Dholakiya"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sarvang Dholakiya" />
   </a>    
+</div>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
