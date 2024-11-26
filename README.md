@@ -38,7 +38,63 @@
 <div>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&show_icons=true&theme=tokyonight&locale=en" alt="sarvangdholakiya" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvangdholakiya&show_icons=true&theme=tokyonight" alt="sarvangdholakiya" />
 </p> -->
-<img src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvangdholakiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=sarvangdholakiya&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="trophy repository"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Number of Profile Visitors"
+  />
+</p>
 
 </div>
 <div align="left">
