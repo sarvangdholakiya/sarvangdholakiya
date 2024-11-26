@@ -40,7 +40,7 @@
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvangdholakiya&layout=compact" alt="sarvangdholakiya" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvangdholakiya&layout=compact)
 
 <p>
 <h3 align="left">Support:</h3>
