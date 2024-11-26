@@ -37,8 +37,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&show_icons=true&theme=tokyonight&locale=en" alt="sarvangdholakiya" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvangdholakiya&show_icons=true&theme=tokyonight" alt="sarvangdholakiya" />
 </p> -->
 </div>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvangdholakiya&layout=compact" alt="sarvangdholakiya" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvangdholakiya&layout=compact)
 
