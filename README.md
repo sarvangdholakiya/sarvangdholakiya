@@ -84,15 +84,6 @@
     />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Number of Profile Visitors"
-  />
-</p>
 </div>
 
 ---
@@ -125,5 +116,11 @@
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Profile Visitor Count</b></h3><p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Number of Profile Visitors"
+  />
+</p>
+
 </div>
