@@ -1,6 +1,8 @@
 <h1 align="center">Hola Amigos 🧑‍💻 I'm Sarvang</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
+---
+
 <p align="center">
 <img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=sarvangdholakiya&label=Profile%20views&color=blueviolet&style=flat" alt="sarvangdholakiya">
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/sarvangdholakiya?style=flat&color=blueviolet&logo=github" alt="sarvangdholakiya"/>
