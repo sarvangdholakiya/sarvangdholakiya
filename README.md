@@ -43,23 +43,19 @@
 <p>
 <h3 align="left">Support:</h3>
   <div align="left">
- <a href="mailto:gabrielrguedess@gmail.com" target="_blank">
+ <a href="mailto:sarvang98@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
 
- <a href="https://www.facebook.com/gabriel.guedes.7921" target="_blank">
+ <a href="https://www.facebook.com/sarvangD98" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
  </a>
 
- <a href="https://www.instagram.com/gabriel_rguedes" target="_blank">
+ <a href="https://www.instagram.com/sarvangd98" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </a>
 
- <a href="https://twitter.com/Gabriel33571363" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
- </a>
-
- <a href="https://www.linkedin.com/in/gabriel-guedes-847424204" target="_blank">
+ <a href="https://www.linkedin.com/in/sarvang-dholakiya" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
   
