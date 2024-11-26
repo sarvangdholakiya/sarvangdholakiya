@@ -38,12 +38,12 @@
 <div>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&show_icons=true&theme=tokyonight&locale=en" alt="sarvangdholakiya" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvangdholakiya&show_icons=true&theme=tokyonight" alt="sarvangdholakiya" />
 </p> -->
-</div>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sarvangdholakiya&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SarvangDholakiya&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
+</div>
 <div align="left">
 <a href="mailto:sarvang98@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
