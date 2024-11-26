@@ -3,6 +3,12 @@
 
 <p align="center">
 <a href="https://discord.gg/HHMs7Eg" target="blank">
+<img align="right" alt="Visitas" src="https://komarev.com/ghpvc/?username=GabrielGuedess&label=Profile%20views&color=blueviolet&style=flat">
+<img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/GabrielGuedess?style=flat&color=blueviolet&logo=github" />
+<img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/GabrielGuedess?style=flat&color=blueviolet" />
+<img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/GabrielGuedess?color=blueviolet" />
+<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/GabrielGuedess?style=flat&color=blueviolet" />
+
 <img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=sarvangdholakiya&label=Profile%20views&color=0e75b6&style=flat" alt="sarvangdholakiya" /> 
