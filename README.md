@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Latest Technologies Based on The Market Evolutions**
 
-- 👯 I’m looking to collaborate on **Shopify, Magento2, Laravel, Core-Php, WordPress, MERN Stack, MEAN Stack, AI/ML**
+- 👯 I’m looking to collaborate on **Shopify, Magento2, Laravel, Core-Php, WordPress, MERN Stack, MEAN Stack**
 
 - 💬 Ask me about **Php, Laravel, Magento, Shopify, WordPress, React, Node, MySQLi**
 
