@@ -59,6 +59,6 @@
 
 <h3 align="left">Support:</h3>
   <a href="https://www.buymeacoffee.com/Sarvang Dholakiya"> 
-    <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sarvang Dholakiya" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sarvang Dholakiya" />
   </a>    
 </div>
