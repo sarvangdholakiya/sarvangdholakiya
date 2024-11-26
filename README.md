@@ -57,10 +57,11 @@
  <a href="https://www.linkedin.com/in/sarvang-dholakiya" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
-
+<a href="https://www.linkedin.com/in/sarvang-dholakiya" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=SarvangDholakiya&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+</a>
 <h3>Support:</h3>
   <a href="https://www.buymeacoffee.com/Sarvang Dholakiya"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sarvang Dholakiya" />
   </a>    
-<img src="https://img.shields.io/static/v1?label=Overview&message=SarvangDholakiya&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </div>
