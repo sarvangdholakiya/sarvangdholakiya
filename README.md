@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
 
-<h3 align="right">Support:</h3>
+<h3 align="left">Support:</h3>
   <a href="https://www.buymeacoffee.com/Sarvang Dholakiya"> 
     <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sarvang Dholakiya" />
   </a>    
