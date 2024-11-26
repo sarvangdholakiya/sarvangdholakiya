@@ -41,10 +41,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvangdholakiya&layout=compact)
 
 <div>
+<h3 align="left">Support:</h3>
   <a href="https://www.buymeacoffee.com/Sarvang Dholakiya"> 
     <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sarvang Dholakiya" />
   </a>
-<h3 align="left">Support:</h3>
 <div align="right">
  <a href="mailto:sarvang98@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
