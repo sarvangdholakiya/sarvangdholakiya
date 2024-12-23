@@ -8,7 +8,6 @@
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/sarvangdholakiya?style=flat&color=blueviolet&logo=github" alt="sarvangdholakiya"/>
 <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/sarvangdholakiya?style=flat&color=blueviolet" alt="sarvangdholakiya"/>
 <img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/sarvangdholakiya?style=flat&color=blueviolet" alt="sarvangdholakiya"/>
-<img src="https://komarev.com/ghpvc/?username=sarvangdholakiya&label=Profile%20views&color=0e75b6&style=flat" alt="sarvangdholakiya" /> 
 </p>
 
 
